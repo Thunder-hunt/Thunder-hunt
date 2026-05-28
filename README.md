@@ -51,4 +51,6 @@ When I'm not coding or pushing pixels to their absolute limit, I'm usually divin
 
 ### 📊 GitHub Stats
 
-![Thunder-hunt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thunder-hunt&show_icons=true&theme=dark&hide_border=true)
+[![Thunder-hunt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thunder-hunt&show_icons=true&theme=dark&hide_border=true)](https://github.com/Thunder-hunt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thunder-hunt&layout=compact&theme=dark)](https://github.com/Thunder-hunt)
