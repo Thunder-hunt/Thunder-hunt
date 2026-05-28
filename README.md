@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=500" align="right" width="220" alt="Profile Character" style="border-radius: 8px; margin-left: 15px;" />
+<img src="https://raw.githubusercontent.com/Thunder-hunt/Thunder-hunt/main/image_921600.jpg" align="right" width="220" alt="Constructive Rabbid" style="border-radius: 8px; margin-left: 15px;" />
 
 ## Hi there, I'm Rainar Rizky Pangestu 👋
 
@@ -6,8 +6,8 @@ I am a developer and student at SMKN 1 Cibinong majoring in **Sistem Informasi, 
 
 ### 🚀 What I'm Up To
 
-* 🖥️ **UI/UX & Web Development:** Currently developing **madura_mart**, a Laravel-based web application, alongside integrated platforms like **Angkutanku**.
-* 🌐 **Infrastructure:** Managing Ubuntu Server environments, containerizing services with Docker, and automated deployments using Ansible.
+* 🖥️ **UI/UX & Web Development:** Currently developing **[madura_mart](https://github.com/Thunder-hunt/madura-mart)**, a Laravel-based web application, alongside integrated platforms like **Angkutanku**.
+* 🌐 **Infrastructure:** Managing Ubuntu Server environments and containerizing services with Docker.
 * 🛡️ **Networking:** Configuring MikroTik routers, managing bandwidth, and securing network firewalls.
 
 ---
@@ -44,7 +44,7 @@ When I'm not coding or pushing pixels to their absolute limit, I'm usually divin
 
 ### 📌 Featured Projects
 
-* **madura_mart:** A Laravel exploration and ongoing study project.
+* **[madura_mart](https://github.com/Thunder-hunt/madura-mart):** A Laravel exploration and ongoing study project.
 * **Angkutanku:** A web-based integrated booking platform for public transportation in the Jabodetabek region.
 
 ---
