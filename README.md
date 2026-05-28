@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Thunder-hunt/Thunder-hunt/main/image_921600.jpg" align="right" width="220" alt="Constructive Rabbid" style="border-radius: 8px; margin-left: 15px;" />
+<img src="./images/constructive-rabbid.jpg" align="right" width="220" alt="Constructive Rabbid" style="border-radius: 8px; margin-left: 15px;" />
 
 ## Hi there, I'm Rainar Rizky Pangestu 👋
 
