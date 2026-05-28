@@ -33,7 +33,6 @@ When I'm not coding or pushing pixels to their absolute limit, I'm usually divin
 
 #### Systems & DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/mikrotik-%23005596.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
