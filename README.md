@@ -6,7 +6,7 @@ I am a developer and student at SMKN 1 Cibinong majoring in **Sistem Informasi, 
 
 ### 🚀 What I'm Up To
 
-* 🖥️ **UI/UX & Web Development:** Currently developing **Angkutanku**, an integrated public transport booking platform for Jabodetabek, and designing **SABA**, a desktop-first AI Trip Planner with 360° VR views.
+* 🖥️ **UI/UX & Web Development:** Currently developing **madura_mart**, a Laravel-based web application, alongside integrated platforms like **Angkutanku**.
 * 🌐 **Infrastructure:** Managing Ubuntu Server environments, containerizing services with Docker, and automated deployments using Ansible.
 * 🛡️ **Networking:** Configuring MikroTik routers, managing bandwidth, and securing network firewalls.
 
@@ -45,8 +45,8 @@ When I'm not coding or pushing pixels to their absolute limit, I'm usually divin
 
 ### 📌 Featured Projects
 
+* **madura_mart:** A Laravel exploration and ongoing study project.
 * **Angkutanku:** A web-based integrated booking platform for public transportation in the Jabodetabek region.
-* **SABA:** A premium desktop-first AI Trip Planner platform featuring 360-degree virtual reality views.
 
 ---
 
