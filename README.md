@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=500" align="right" width="220" alt="Profile Character" style="border-radius: 8px; margin-left: 15px;" />
+<img src="path/to/image_4.png" align="right" width="220" alt="Constructive Rabbid" style="border-radius: 8px; margin-left: 15px;" />
 
 ## Hi there, I'm Rainar Rizky Pangestu 👋
 
